@@ -1,3 +1,3 @@
 # Random Useful Things
 
-### [Automate folder encryption on linux](automate-encryption)
+### [Automate folder encryption using GPG on linux](automate-encryption.md)
