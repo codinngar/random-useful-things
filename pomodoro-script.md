@@ -1,7 +1,5 @@
 # Pomodoro script
 
-<br><br>
-
 1. Install `zenity` if not already installed:
 ```bash
 sudo dnf install zenity

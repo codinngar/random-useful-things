@@ -1,7 +1,5 @@
 # Automate folder encryption using GPG on linux
 
-<br><br>
-
 1. Install dependencies: Ensure `gpg` and `inotify-tools` (for monitoring file changes) are installed.
 ```bash
 sudo dnf install gnupg inotify-tools
@@ -85,8 +83,6 @@ sudo systemctl start encrypt-folder.service
 ```bash
 sudo systemctl status encrypt-folder.service
 ```
-
-<br><br>
 
 ### In case of errors while starting the service or checking the status
 
